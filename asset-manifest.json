@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/catsgif/static/css/main.71266005.css",
+    "main.js": "/catsgif/static/js/main.b71f4936.js",
+    "index.html": "/catsgif/index.html",
+    "main.71266005.css.map": "/catsgif/static/css/main.71266005.css.map",
+    "main.b71f4936.js.map": "/catsgif/static/js/main.b71f4936.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71266005.css",
+    "static/js/main.b71f4936.js"
+  ]
+}
